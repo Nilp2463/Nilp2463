@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neel Patel</h1>
+<h1 align="center">Hi 👋, I'm Nil KaPatel</h1>
 
 <h3 align="center">
 💻 MERN Stack Developer | 📱 Flutter Developer | ☕ Java Programmer
